@@ -61,7 +61,7 @@ The dataset includes features such as age, sex, blood pressure, cholesterol leve
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
+   git clone https://github.com/utsab345/heart-disease-prediction.git
    cd heart-disease-prediction
 ## ▶️ Usage
 1. Open the Jupyter Notebook:
