@@ -10,7 +10,6 @@ This repository contains a Jupyter Notebook for predicting heart disease using m
 - [🚀 Workflow](#-workflow)
 - [⚙️ Installation](#️-installation)
 - [▶️ Usage](#️-usage)
-- [📈 Results](#-results)
 - [🤝 Contributing](#-contributing)
 
 ## 🔍 Introduction
@@ -27,7 +26,6 @@ The dataset includes features such as age, sex, blood pressure, cholesterol leve
 - **💔 Chest Pain Type**: Type of chest pain experienced  
 - **💉 Resting Blood Pressure**: Resting blood pressure (mm Hg)  
 - **🍔 Cholesterol**: Serum cholesterol (mg/dl)  
-- ... *(add additional features as needed)*  
 
 ## 💻 Technologies Used
 
